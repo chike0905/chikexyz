@@ -1,0 +1,7 @@
+*{
+  font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+a:hover img{
+  opacity:0.7;
+}
