@@ -26,6 +26,7 @@
         $('#about').scrollInTurn({
           fadeInSpeed:1000
         });
+        $('#publications').scrollInTurn();
         $('#blog').scrollInTurn();
       });
     </script>
@@ -43,6 +44,9 @@
         <div class="sm-flex center nowrap">
           <div class="flex-auto">
             <a href="#top" class="btn black btn-primary white bg-black navbtn">About Me</a>
+          </div>
+          <div class="flex-auto">
+            <a href="#publications" class="btn white navbtn">Publications</a>
           </div>
           <div class="flex-auto">
             <a href="#blog" class="btn black navbtn">Posts to qiita</a>
@@ -95,6 +99,16 @@
         <h4>「通貨」と「信頼」 Bitcoinとはそもそも何か</h4>
       </div>
       <div style="clear:both"></div>
+    </div>
+    <div id="publications" class="py1">
+      <h2>Publications</h2>
+      <div class="bg-lighten-1 py1 px3 target" >
+      <div class="white left-align" style="text-decoration: none;">
+        <h3>パーソナルファブリケーション時代におけるBlockchainを用いた製造情報保存システム</h3>
+         <div class="h4">阿部 涼介, 斉藤 賢爾, 村井純</div>
+         <div class="h4">マルチメディア,分散,協調とモバイル (DICOMO2017) シンポジウム,(2017)</div>
+        </div>
+      </div>
     </div>
     <div id="blog" class="py1">
       <h2>Posts to qiita</h2>
