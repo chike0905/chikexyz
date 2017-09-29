@@ -46,7 +46,7 @@
             <a href="#top" class="btn black btn-primary white bg-black navbtn">About Me</a>
           </div>
           <div class="flex-auto">
-            <a href="#publications" class="btn white navbtn">Publications</a>
+            <a href="#publications" class="btn black navbtn">Publications</a>
           </div>
           <div class="flex-auto">
             <a href="#blog" class="btn black navbtn">Posts to qiita</a>
@@ -74,7 +74,7 @@
           <li>Jun Murai Lab. NECO KGL (2015.9 ~ )</li>
           <li>Fujisawa Kenyukai Captain (2015.4 ~ 2015.11)</li>
           <li>25th Tanabata Festival Web Creater (2014)</li>
-          <li><a href="http://lmtc.jp" class="white" style="text-decoration: none;">Layout my Torturechamber</a> Bassist (2015.5 ~ )</li>
+          <li><a href="http://lmtc.jp" class="white" style="text-decoration: none;">Layout my Torturechamber</a> Bassist (2015.5 ~ 2017.9)</li>
         </ul>
         <h3>Interest</h3>
         <ul style="list-style-type: none; padding:0;">
