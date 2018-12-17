@@ -71,7 +71,8 @@
         <ul style="list-style-type: none; padding:0;">
           <li>Keio Univ. Student of graduate school (Master course of Media and Governance) (2017.4 ~ )</li>
           <li>Keio Univ. Bachelor of Policy Management(2017.3)</li>
-          <li>Jun Murai Lab. NECO KGL (2015.9 ~ )</li>
+          <li>Jun Murai Lab. NECO KGL (2015.9 ~ 2018.3)</li>
+          <li>Jun Murai Lab. BCALI KGL (2018.4 ~ )</li>
           <li>Fujisawa Kenyukai Captain (2015.4 ~ 2015.11)</li>
           <li>25th Tanabata Festival Web Creater (2014)</li>
           <li><a href="http://lmtc.jp" class="white" style="text-decoration: none;">Layout my Torturechamber</a> Bassist (2015.5 ~ 2017.9)</li>
@@ -102,12 +103,34 @@
     </div>
     <div id="publications" class="py1">
       <h2>Publications</h2>
-      <div class="bg-lighten-1 py1 px3 target" >
+      <div class="bg-lighten-1 py1 px3" >
+      <div class="white left-align" style="text-decoration: none;">
+      <h3>Mitigating Bitcoin Node Storage Size By DHT</h3>
+         <div class="h4">Ryosuke Abe, Shigeya Suzuki, Jun Murai</div>
+         <div class="h4">14th ASIAN INTERNET ENGINEERING CONFERENCE(AINTEC), (2018)</div>
+      </div>
+      </div>
+      <div class="bg-lighten-1 py1 px3" >
+      <div class="white left-align" style="text-decoration: none;">
+      <h3>Attack Incentive and Security of Exchanging Tokens on Proof-of-Work Blockchain</h3>
+         <div class="h4">Ryosuke Abe，Keita Nakamura, Kentaro Teramoto, Misato Takahashi</div>
+         <div class="h4">14th ASIAN INTERNET ENGINEERING CONFERENCE(AINTEC), (2018)</div>
+      </div>
+      </div>
+      <div class="bg-lighten-1 py1 px3" >
+      <div class="white left-align" style="text-decoration: none;">
+      <h3>Storage Protocol for Securing Blockchain Transparency</h3>
+         <div class="h4">Ryosuke Abe，Hiroki Watanabe，Shigenori Ohashi，Shigeru Fujimura，Atsushi Nakadaira</div>
+         <div class="h4">IEEE 42nd Annual Computer Software and Applications Conference(COMPSAC), (2018)</div>
+      </div>
+      </div>
+      <div class="bg-lighten-1 py1 px3" >
       <div class="white left-align" style="text-decoration: none;">
         <h3>パーソナルファブリケーション時代におけるBlockchainを用いた製造情報保存システム</h3>
          <div class="h4">阿部 涼介, 斉藤 賢爾, 村井純</div>
-         <div class="h4">マルチメディア,分散,協調とモバイル (DICOMO2017) シンポジウム,(2017)</div>
+         <div class="h4">マルチメディア,分散,協調とモバイル(DICOMO2017)シンポジウム, (2017)</div>
         </div>
+      </div>
       </div>
     </div>
     <div id="blog" class="py1">
